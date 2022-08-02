@@ -1,2 +1,2 @@
-# Cheat-Code- Entrep-Proj
- Original Tech Review Project
+# cheat-code
+Website made as part of an entrepreneurship program which Richfield is a part off
